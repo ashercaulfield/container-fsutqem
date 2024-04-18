@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Apr 18 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update docker-compose.yml ([@ashercaulfield](https://github.com/ashercaulfield))
+
+#### Authors: 1
+
+- Asher Caulfield ([@ashercaulfield](https://github.com/ashercaulfield))
+
+---
+
 # v0.0.1 (Thu Apr 18 2024)
 
 :tada: This release contains work from a new contributor! :tada:
